@@ -148,7 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="utils.cpp" />
-    <ClCompile Include="期末課題.cpp" />
+    <ClCompile Include="minesweeper.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="consts.h" />
